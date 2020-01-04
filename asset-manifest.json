@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/practicemill/static/css/main.d1b05096.chunk.css",
+    "main.js": "/practicemill/static/js/main.3f0dd560.chunk.js",
+    "main.js.map": "/practicemill/static/js/main.3f0dd560.chunk.js.map",
+    "runtime-main.js": "/practicemill/static/js/runtime-main.12e3730b.js",
+    "runtime-main.js.map": "/practicemill/static/js/runtime-main.12e3730b.js.map",
+    "static/js/2.ce535ae6.chunk.js": "/practicemill/static/js/2.ce535ae6.chunk.js",
+    "static/js/2.ce535ae6.chunk.js.map": "/practicemill/static/js/2.ce535ae6.chunk.js.map",
+    "index.html": "/practicemill/index.html",
+    "precache-manifest.ff637dafe402251dccc6da0f92b314e7.js": "/practicemill/precache-manifest.ff637dafe402251dccc6da0f92b314e7.js",
+    "service-worker.js": "/practicemill/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/practicemill/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ce535ae6.chunk.js.LICENSE": "/practicemill/static/js/2.ce535ae6.chunk.js.LICENSE",
+    "static/media/arzt.png": "/practicemill/static/media/arzt.de578f1b.png",
+    "static/media/healthcare.png": "/practicemill/static/media/healthcare.3f35d139.png",
+    "static/media/hearth.png": "/practicemill/static/media/hearth.0f807958.png",
+    "static/media/logo.png": "/practicemill/static/media/logo.69272775.png",
+    "static/media/map.PNG": "/practicemill/static/media/map.b34c85bd.PNG",
+    "static/media/office.jpg": "/practicemill/static/media/office.9c84c66c.jpg",
+    "static/media/welcome.jpg": "/practicemill/static/media/welcome.fb4b3d67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12e3730b.js",
+    "static/js/2.ce535ae6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3f0dd560.chunk.js"
+  ]
+}
